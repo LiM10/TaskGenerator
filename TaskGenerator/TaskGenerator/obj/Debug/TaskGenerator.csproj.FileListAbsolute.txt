@@ -1,0 +1,6 @@
+c:\users\p501\documents\visual studio 2017\Projects\TaskGenerator\TaskGenerator\bin\Debug\TaskGenerator.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\TaskGenerator\TaskGenerator\bin\Debug\TaskGenerator.exe
+c:\users\p501\documents\visual studio 2017\Projects\TaskGenerator\TaskGenerator\bin\Debug\TaskGenerator.pdb
+c:\users\p501\documents\visual studio 2017\Projects\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.exe
+c:\users\p501\documents\visual studio 2017\Projects\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.pdb
